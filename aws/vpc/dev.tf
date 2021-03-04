@@ -15,6 +15,7 @@ module "vpc" {
 	Created_by = "Farrukh"
 	Department = "IT"
 	Bill = "CFO"
+	Managed_by = "DevSecOps"
 	}
 }
 
